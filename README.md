@@ -1,4 +1,4 @@
-# JASMINE
+# JASMINE [[English]](https://github.com/OnizukaLab/JASMINE/blob/main/README.en.md)
 患者の[闘病ブログ](https://www.tobyo.jp/)の記事から、医療ドメインにおける日本語のテキスト平易化パラレルコーパスを構築しました。
 これは、患者が記述した文における病名や症状などの表現を医療用語に置き換えることで構築された文単位のパラレルコーパスです。
 1,425件を公開します。
